@@ -1,0 +1,20 @@
+
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+h1{font-size: 4rem !important;}
+
+
+.box{
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #00e165;
+  border: 3px solid #001533;
+  border-radius: 5px;
+  color: #001533;
+  font-weight: 800;
+  
+}
